@@ -1,0 +1,8 @@
+# common
+build
+synth.v
+synth.png
+
+# cadence
+fv
+.rs_*.tstamp
