@@ -2,7 +2,12 @@
 build
 synth.v
 synth.png
+synth.svg
+synth.json
 
 # cadence
 fv
 .rs_*.tstamp
+
+# synlig
+slpp_all

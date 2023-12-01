@@ -3,9 +3,20 @@
 
 This collection showcases examples of generating schematics from SystemVerilog code using various synthesis tools like Yosys, Vivado, Genus, and Design Compiler.
 
-## Yosys + netlistsvg
+## Synlig + Yosys + netlistsvg
 
-*TODO*
+1. Install the following:
+   * <https://github.com/nturley/netlistsvg>
+   * <https://github.com/chipsalliance/synlig>
+
+2.
+
+```bash
+cd genus
+make
+```
+
+![Yosys Schematic](docs/yosys.svg)
 
 ## Vivado
 
@@ -13,9 +24,10 @@ This collection showcases examples of generating schematics from SystemVerilog c
 
 ## Genus
 
-1. Download the [Skywater PDK](https://github.com/google/skywater-pdk) and generate the liberty files
+1. Download the [Skywater PDK](https://github.com/google/skywater-pdk) and generate the liberty files.
 
 2.
+
 ```bash
 cd genus
 make
