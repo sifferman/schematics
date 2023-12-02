@@ -2,7 +2,7 @@
 synth.svg: synth.json
 	netlistsvg $< -o $@
 
-synth.v synth.json:
+synth.v synth.json: ../top.sv
 	yosys -c synth.tcl
 
 clean:

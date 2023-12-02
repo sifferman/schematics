@@ -1,5 +1,5 @@
 
-all:
+synth.v synth.png: ../top.sv
 	mkdir -p build
 	genus -files synth.tcl -log build/synth.log
 
