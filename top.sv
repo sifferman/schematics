@@ -1,5 +1,5 @@
 
-module inv (
+module top (
     input logic a,
     output logic b
 );
