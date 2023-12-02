@@ -20,7 +20,16 @@ make
 
 ## Vivado
 
-*TODO*
+1. Download Vivado: <https://www.xilinx.com/support/download.html>
+
+2.
+
+```bash
+cd vivado
+make
+```
+
+![Vivado Schematic](docs/vivado.svg)
 
 ## Genus
 

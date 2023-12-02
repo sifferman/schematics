@@ -11,3 +11,7 @@ fv
 
 # synlig
 slpp_all
+
+# vivado
+.Xil
+vivado/top
