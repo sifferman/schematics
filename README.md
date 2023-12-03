@@ -12,7 +12,7 @@ This collection showcases examples of generating schematics from SystemVerilog c
 2.
 
 ```bash
-cd genus
+cd yosys
 make
 ```
 
