@@ -43,7 +43,7 @@ make
 ## Design Compiler
 
 ```bash
-cd genus
+cd design_compiler
 make
 ```
 
