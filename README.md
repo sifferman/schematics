@@ -42,4 +42,9 @@ make
 
 ## Design Compiler
 
-*TODO*
+```bash
+cd genus
+make
+```
+
+![Design Compiler Schematic](docs/design_compiler.png)
