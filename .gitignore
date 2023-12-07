@@ -4,6 +4,7 @@ synth.v
 synth.png
 synth.svg
 synth.json
+*.log
 *.lib
 
 # cadence
@@ -16,3 +17,9 @@ slpp_all
 # vivado
 .Xil
 vivado/top
+
+# synopsys
+*.svf
+lc_output.txt
+*.db
+dc_output.txt
