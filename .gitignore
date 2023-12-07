@@ -4,6 +4,7 @@ synth.v
 synth.png
 synth.svg
 synth.json
+*.lib
 
 # cadence
 fv

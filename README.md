@@ -1,7 +1,7 @@
 
 # HDL to Schematic Examples
 
-This collection showcases examples of generating schematics from SystemVerilog code using various synthesis tools like Yosys, Vivado, Genus, and Design Compiler.
+This collection showcases examples of generating schematics from SystemVerilog code using various synthesis tools such as Yosys, Vivado, Genus, and Design Compiler.
 
 ## Synlig + Yosys + netlistsvg
 
@@ -32,10 +32,6 @@ make
 ![Vivado Schematic](docs/vivado.svg)
 
 ## Genus
-
-1. Download the [Skywater PDK](https://github.com/google/skywater-pdk) and generate the liberty files.
-
-2.
 
 ```bash
 cd genus
