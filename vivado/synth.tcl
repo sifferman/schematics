@@ -13,9 +13,9 @@ wait_on_run synth_1
 open_run synth_1 -name synth_1
 
 write_verilog -force -include_xilinx_libs synth.v
-
+ 
 start_gui
-show_schematic -verbose [get_nets -hier]
+show_schematic -verbose [get_nets]
 write_schematic -format svg -scope current_page -verbose -force synth.svg
 
 exit
